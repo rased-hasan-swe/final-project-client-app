@@ -1,0 +1,10 @@
+
+.nav-link:hover{
+    background-color: rgba(196, 192, 192, 0.699);
+    color: white;
+    
+}
+.btn-style{
+    margin:5px;
+    text-decoration: none;
+}
